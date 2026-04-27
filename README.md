@@ -11,10 +11,10 @@ Oracle Certified • DEPI Trainee
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year Artificial Intelligence student  
-- 🤖 Specialized in Generative AI, LLMs, RAG & Agentic Systems  
-- 🧠 Building intelligent AI systems with reasoning, memory & retrieval  
-- 🚀 Passionate about production-ready AI solutions  
+-  Final-year Artificial Intelligence student  
+-  Specialized in Generative AI, LLMs, RAG & Agentic Systems  
+-  Building intelligent AI systems with reasoning, memory & retrieval  
+-  Passionate about production-ready AI solutions  
 
 ---
 
