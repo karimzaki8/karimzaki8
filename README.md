@@ -26,64 +26,64 @@ const karim = {
   currentWork : "Building AI projects using LLMs, RAG, LangChain, and Agentic workflows",
   goal        : "Developing scalable, production-ready AI systems",
 };
+AI / GenAI Focus
+
+I build intelligent AI systems that combine reasoning, retrieval, memory, and automation.
+
+<div align="center">
+Area	Tools & Concepts
+Generative AI	LLMs · Prompt Engineering · Transformers
+RAG Systems	Embeddings · Vector Databases · Re-ranking · Document QA
+Agentic AI	Tool-Using Agents · Planning · Memory · Reasoning
+Multi-Agent Systems	Agent Collaboration · Coordination · Task Orchestration
+ML/DL	Classification · CNNs · Transfer Learning · NLP
+</div>
+Tech Stack
+AI & Machine Learning
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&perline=8" /> </p>
+GenAI & Agents
+<p align="left"> <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-A78BFA?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-302B63?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-0F0C29?style=for-the-badge&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-24243E?style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge&logo=robotframework&logoColor=white"/> </p>
+Data & Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=8" /> </p>
+Cloud
+<p align="left"> <img src="https://img.shields.io/badge/Oracle_Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/> </p>
+Featured Projects
+Dual-Modality Breast Cancer Classification
+
+Deep learning diagnostic system using clinical tabular data and histopathology images.
+
+Built a comparative classification system for malignant vs. benign cases
+Used Transfer Learning with VGG16
+Achieved 97% accuracy on tabular clinical dataset
+Achieved 82.7% accuracy on 20,000 histopathology image patches
+Twitter Airline Sentiment Analysis
+
+Classical NLP sentiment analysis system for airline-related tweets.
+
+Built binary sentiment classifier: positive vs. negative
+Used text preprocessing, stopword removal, and Bag-of-Words
+Trained Multinomial Naive Bayes model
+Evaluated using accuracy, confusion matrix, and F1-score
+Coming Soon
+Production-ready RAG Chatbot
+AI Agent with memory and tool use
+Multi-Agent Collaboration System
+GenAI portfolio website
+GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karimzaki8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimzaki8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="180"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimzaki8&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/> </div>
+GitHub Trophies
+<div align="center"> <img src="https://github-trophies.vercel.app/?username=karimzaki8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/> </div>
+Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=karimzaki8&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/> </div>
+Connect With Me
+<div align="center">
 
 
-<h1 align="center">Hi, I'm Karim Ahmed Zaki 👋</h1>
 
-<h3 align="center">
-Generative AI & Agentic AI Engineer | Oracle Certified | DEPI Trainee
-</h3>
 
-<p align="center">
-I build AI systems using LLMs, RAG, Agents, and Multi-Agent workflows.
-</p>
 
----
 
-## About Me
+</div>
+<div align="center">
 
-Final-year Artificial Intelligence student focused on Generative AI, LLM-powered applications, Retrieval-Augmented Generation, and Agentic AI systems.
-
-Currently training in the DEPI Generative & Agentic AI Track and building hands-on projects in RAG, agents, NLP, and deep learning.
-
----
-
-## Tech Stack
-
-**AI / GenAI:** Generative AI, LLMs, RAG, Agentic AI, Multi-Agent Systems  
-**Frameworks:** LangChain, LangGraph, CrewAI, OpenAI API  
-**ML / DL:** Machine Learning, Deep Learning, NLP, Computer Vision, PyTorch, TensorFlow, Keras, Scikit-learn  
-**Data:** Pandas, NumPy, Matplotlib  
-**Cloud:** Oracle Cloud Infrastructure  
-**Tools:** Git, GitHub, Jupyter Notebook, Google Colab
-
----
-
-## Featured Projects
-
-### Dual-Modality Breast Cancer Classification
-Deep learning diagnostic system using VGG16, clinical tabular data, and histopathology images.
-
-- Achieved 97% accuracy on tabular clinical dataset
-- Achieved 82.7% accuracy on 20,000 histopathology image patches
-- Used Transfer Learning, CNNs, TensorFlow, Keras
-
-### Twitter Airline Sentiment Analysis
-NLP sentiment analysis project for classifying airline tweets into positive and negative sentiment.
-
-- Used text preprocessing, stopword removal, and Bag-of-Words
-- Trained Multinomial Naive Bayes classifier
-- Evaluated using accuracy, confusion matrix, and F1-score
-
-### Coming Next
-- Production-ready RAG chatbot
-- AI Agent with memory and tool use
-- Multi-Agent collaboration system
-
----
-
-## Contact
-
-Email: karimzaki4848@gmail.com  
-LinkedIn: https://linkedin.com/in/karim-zaki-ai  
-GitHub: https://github.com/karimzaki8
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/> </div> ```
