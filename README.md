@@ -1,3 +1,33 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Karim%20Ahmed%20Zaki&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20%26%20Agentic%20AI%20Engineer%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG%20%E2%80%A2%20Agents&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+LLM-powered+applications.;Working+with+RAG%2C+Agents+%26+Multi-Agent+Systems.;Oracle+Certified+Generative+AI+Professional.;DEPI+Generative+%26+Agentic+AI+Trainee.;Python+%7C+LangChain+%7C+PyTorch+%7C+RAG+%7C+Agents)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## About Me
+
+```ts
+const karim = {
+  name        : "Karim Ahmed Zaki",
+  role        : "Generative AI & Agentic AI Engineer",
+  location    : "Cairo, Egypt 🇪🇬",
+  education   : "Final-year AI Student",
+  training    : "DEPI - Generative & Agentic AI Track",
+  certified   : "Oracle Cloud Infrastructure Certified Generative AI Professional",
+  focus       : ["LLMs", "RAG Systems", "AI Agents", "Multi-Agent Systems", "NLP", "Computer Vision"],
+  currentWork : "Building AI projects using LLMs, RAG, LangChain, and Agentic workflows",
+  goal        : "Developing scalable, production-ready AI systems",
+};
+
+
 <h1 align="center">Hi, I'm Karim Ahmed Zaki 👋</h1>
 
 <h3 align="center">
