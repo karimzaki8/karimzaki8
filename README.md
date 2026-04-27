@@ -81,6 +81,18 @@ Oracle Certified • DEPI Trainee
 ---
 
 ## 🚀 Projects
+### 🤖 RAG Technical Support Bot (Power SCADA)
+
+- Built a Retrieval-Augmented Generation (RAG) chatbot for technical support using a structured SCADA manual  
+- Implemented document processing pipeline with chunking and metadata (page + section tracking)  
+- Used embeddings (Sentence Transformers) and vector search (pgvector) for efficient retrieval  
+- Integrated LLM (Qwen via Alibaba DashScope API) for response generation  
+- Enforced strict RAG constraint: answers are generated ONLY from the provided document  
+- Displays relevant document chunks with page references for explainability  
+
+🛠 Tech: Python, PostgreSQL, pgvector, Sentence Transformers, RAG, LLM APIs
+
+---
 
 ### 🧬 Dual-Modality Breast Cancer Classification
 
